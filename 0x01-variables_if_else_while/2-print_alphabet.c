@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: 'Print the alphabets from AtoZ' 
+ * Description: 'Print the alphabets from AtoZ'
  * Return: Always 0 (Success)
  */
 int main(void)
