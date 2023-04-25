@@ -2,8 +2,8 @@
 /**
  * print_sign - Entry point
  * Description: 'prints sign'
- * Return: Always 0 (Success)
- * @n: number to be checked 
+ * Return: 0 for zero 1 for pos -1 for neg
+ * @n: number to be checked
  */
 int print_sign(int n)
 {
